@@ -1,0 +1,16 @@
+- base_price: 6.0
+  name: Regina
+  toppings:
+  - {name: Cheese, price: 1.0}
+  - {name: Basillic, price: 0.5}
+  - {name: Ham, price: 3.5}
+  - {name: Olives, price: 2.5}
+  - {name: Tomato, price: 2.5}
+  - {name: Champignon, price: 3.0}
+  - {name: Parmesan, price: 2.0}
+- base_price: 6.0
+  name: Gawaii
+  toppings:
+  - {name: Cheese, price: 1.0}
+  - {name: Ham, price: 3.5}
+  - {name: Pineapple, price: 3.5}

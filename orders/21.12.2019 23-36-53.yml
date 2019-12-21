@@ -1,0 +1,8 @@
+- base_price: 6.0
+  name: Christmas Pizza
+  toppings:
+  - {name: Cheese, price: 1.0}
+  - {name: Banana, price: 2.5}
+  - {name: Pineapple, price: 3.5}
+  - {name: Mozzarella, price: 1.5}
+  - {name: Tangerine, price: 3.0}
